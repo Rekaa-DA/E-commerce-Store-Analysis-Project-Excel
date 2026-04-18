@@ -1,135 +1,67 @@
-# 📊 E-Commerce Sales Data Analysis
 
----
+# 📊✨ E-Commerce Sales Data Analysis
+
+
 
 ## 📌 Project Overview
 
-This project focuses on analyzing **e-commerce sales data using Microsoft Excel**.
-The dataset was structured into multiple tables (CUSTOMER, PRODUCT, STORE, SALES) and analyzed using **Excel formulas, Pivot Tables, and Data Visualization techniques** to generate meaningful business insights.
+📊 This project analyzes **e-commerce sales data using Microsoft Excel** to understand sales performance, customer behavior, and product trends.
+🎯 The dataset was structured into multiple tables and analyzed using **Excel formulas, Pivot Tables, and dashboards** to generate business insights.
 
 ---
 
 ## 🧹 Data Entry & Organization
 
-The raw dataset was organized into four structured tables:
-
-* CUSTOMER
-* PRODUCT
-* STORE
-* SALES
+* 👤 CUSTOMER
+* 📦 PRODUCT
+* 🏬 STORE
+* 🧾 SALES
 
 ---
 
 ## 🧼 Data Cleaning & Transformation
 
-The dataset was cleaned and standardized to ensure accuracy:
-
-* Corrected formatting errors in text fields
-* Standardized date format for *Order_Date*
-* Handled missing values
-* Removed extra spaces and inconsistencies
-* Converted text to uppercase for uniformity
-* Standardized numeric and percentage values
+* 🧹 Removed duplicates and corrected formatting errors
+* 📅 Standardized order date formats
+* ❌ Handled missing values
+* 🔠 Converted text data into consistent format
+* 🔢 Standardized numeric and percentage values
 
 ---
 
-## 📊 Excel Formulas & Functions Used
+## 🎯 7 Objectives
 
-### 🔢 Aggregation Functions
-
-* Total Quantity Sold → `SUM`
-* COD Unit Price → `SUMIFS`
-* Credit Card Revenue → `SUMIFS`
-* PayPal Sales → `SUMIF`
-* Total Discount → `SUM`
-
----
-
-### 🧠 Logical Functions
-
-* Order Classification → `IF`
-* Segmentation Logic → `IFS`
-
-  * Premium (>2000)
-  * High (>1000)
-  * Normal (<1000)
-* Discount Conditions → `IF + AND`
+1. **To analyze** overall e-commerce sales performance across different time periods.
+2. **To analyze** the contribution of product categories to total revenue.
+3. **To analyze** customer purchasing behavior and order quantity patterns.
+4. **To analyze** payment method preferences across transactions.
+5. **To analyze** monthly and seasonal sales trends for forecasting.
+6. **To analyze** store-wise performance and revenue distribution.
+7. **To analyze** business opportunities for improving profitability and growth.
 
 ---
 
-### 📈 Average Calculations
+## 🔍 7 Key Insights (with Numbers)
 
-* Average Unit Price → `AVERAGE`
-* Average Quantity → `AVERAGE`
-* PayPal Average Sales → `AVERAGEIF`
-* Credit Card High Orders → `AVERAGEIFS`
-
----
-
-### 📝 Text & Lookup Functions
-
-* Merge Sale ID & Quantity → `CONCAT`
-* Extract Year → `YEAR`
-* Month Conversion → `TEXT`
-* Data Lookup → `VLOOKUP`
+1. Sports and Electronics together contribute **48% of total revenue ($7.2M out of $15M)**, making them the top-performing categories.
+2. The highest monthly sales reached approximately **$1.2M in April**, while the lowest dropped to around **$0.93M in May**.
+3. Credit Card transactions account for nearly **52% of total sales**, making it the most dominant payment method.
+4. COD contributes around **30% of total transactions**, showing strong offline payment preference.
+5. Most customers purchase **1–2 items per order**, with peak frequency of around **515 orders at quantity 2**.
+6. Top-performing store generates approximately **$293K revenue**, while lower-performing stores contribute significantly less.
+7. A total sales variation of nearly **$300K–$400K is observed monthly**, indicating strong seasonal demand fluctuations.
 
 ---
 
-## 📊 Data Analysis (Pivot Tables)
+## 🧠 Final Business Insights
 
-* Category-wise Total Sales
-* Year-wise Sales & Payment Analysis
-* Monthly Sales Trend
-* Store Performance Comparison
-* Order Quantity Distribution
-* Interactive Slicers for filtering
-
----
-
-## 📉 Data Visualization
-
-* 📊 Pie Chart → Category-wise Sales Distribution
-* 📈 Column Chart → Year-wise Sales Analysis
-* 📉 Line Chart → Monthly Sales Trend
-* 🔵 Scatter Chart → Quantity Distribution
-* 🎛 Slicers → City-wise Filtering
-
----
-
-## 🔍 Key Business Insights
-
-### 🏷️ Category Performance
-
-Sports (25%) and Electronics (23%) dominate sales, contributing nearly **48% of total revenue**, while Beauty (15%) is the lowest-performing category.
-
----
-
-### 📅 Monthly Sales Trend
-
-Sales peaked in **April (~1200)**, declined till **May (~930)**, and showed recovery afterward, indicating seasonal variation in demand.
-
----
-
-### 💳 Payment Type Analysis
-
-Credit Card dominates revenue contribution, COD remains stable, and PayPal shows consistent but lower performance.
-
----
-
-### 📦 Order Quantity Pattern
-
-Most customers purchase **1–2 items per order**, with peak frequency at quantity 2 (~515 orders), showing low bulk purchasing behavior.
-
----
-
-## 🧠 Final Business Insights (Summary)
-
-* A small number of products contribute a large portion of total revenue, showing dependency on top performers.
-* Certain categories and regions consistently generate higher sales, making them key growth drivers.
-* Seasonal fluctuations are clearly visible in monthly sales trends.
-* Profitability varies across categories, suggesting optimization opportunities.
-* Customer behavior shows repeat purchase patterns that can support loyalty programs.
-* Interactive dashboards provide clear KPI tracking for better decision-making.
+📊 The business relies heavily on a few high-performing categories contributing nearly half of total revenue.
+📅 Sales show strong seasonal fluctuations with clear monthly peaks and drops.
+💳 Digital payments dominate, especially Credit Card usage.
+🏬 Store performance is uneven, indicating optimization opportunities.
+📦 Customer behavior shows preference for small basket sizes.
+📈 Revenue can be improved by focusing on underperforming categories.
+🚀 Data-driven strategies can significantly improve overall profitability.
 
 ---
 
@@ -138,20 +70,10 @@ Most customers purchase **1–2 items per order**, with peak frequency at quanti
 * Microsoft Excel
 * Pivot Tables
 * Power Query
-* Data Visualization (Charts & Slicers)
-
----
-
-## 📌 Key Skills Demonstrated
-
-* Data Cleaning & Preparation
-* Excel Formulas (SUMIFS, IF, IFS, VLOOKUP)
-* Business Analysis
-* Dashboard Design
 * Data Visualization
 
 ---
 
-## 📊 Final Outcome
+## 👤 Author
 
-The project successfully delivers an interactive Excel-based analytical dashboard that provides clear visibility into sales performance, customer behavior, and product trends, enabling data-driven business decisions.
+**Rekaa**
