@@ -1,6 +1,8 @@
 
 # 📊✨ E-Commerce Sales Data Analysis
 
+📊 Dashboard Preview
+
 
 
 ## 📌 Project Overview
