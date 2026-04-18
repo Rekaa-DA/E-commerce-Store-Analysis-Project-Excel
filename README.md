@@ -3,6 +3,7 @@
 
 📊 Dashboard Preview
 
+<img width="1513" height="646" alt="image" src="https://github.com/user-attachments/assets/e99a02b8-a8e7-42a0-961f-f32659c1759f" />
 
 
 ## 📌 Project Overview
