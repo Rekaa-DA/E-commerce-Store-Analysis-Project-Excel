@@ -6,77 +6,53 @@
 <img width="1513" height="646" alt="image" src="https://github.com/user-attachments/assets/e99a02b8-a8e7-42a0-961f-f32659c1759f" />
 
 
-## 📌 Project Overview
+📊 Project Overview
 
-📊 This project analyzes **e-commerce sales data using Microsoft Excel** to understand sales performance, customer behavior, and product trends.
-🎯 The dataset was structured into multiple tables and analyzed using **Excel formulas, Pivot Tables, and dashboards** to generate business insights.
+End-to-end Excel Data Analytics Project focused on analyzing e-commerce sales data to understand sales performance, customer behavior, product trends, and store-wise revenue distribution using Excel dashboards and Pivot Tables.
 
----
-
-## 🧹 Data Entry & Organization
-
-* 👤 CUSTOMER
-* 📦 PRODUCT
-* 🏬 STORE
-* 🧾 SALES
-
----
-
-## 🧼 Data Cleaning & Transformation
-
-* 🧹 Removed duplicates and corrected formatting errors
-* 📅 Standardized order date formats
-* ❌ Handled missing values
-* 🔠 Converted text data into consistent format
-* 🔢 Standardized numeric and percentage values
-
----
-
-## 🎯 7 Objectives
-
-1. **To analyze** overall e-commerce sales performance across different time periods.
-2. **To analyze** the contribution of product categories to total revenue.
-3. **To analyze** customer purchasing behavior and order quantity patterns.
-4. **To analyze** payment method preferences across transactions.
-5. **To analyze** monthly and seasonal sales trends for forecasting.
-6. **To analyze** store-wise performance and revenue distribution.
-7. **To analyze** business opportunities for improving profitability and growth.
-
----
-
-## 🔍 7 Key Insights (with Numbers)
-
-1. Sports and Electronics together contribute **48% of total revenue ($7.2M out of $15M)**, making them the top-performing categories.
-2. The highest monthly sales reached approximately **$1.2M in April**, while the lowest dropped to around **$0.93M in May**.
-3. Credit Card transactions account for nearly **52% of total sales**, making it the most dominant payment method.
-4. COD contributes around **30% of total transactions**, showing strong offline payment preference.
-5. Most customers purchase **1–2 items per order**, with peak frequency of around **515 orders at quantity 2**.
-6. Top-performing store generates approximately **$293K revenue**, while lower-performing stores contribute significantly less.
-7. A total sales variation of nearly **$300K–$400K is observed monthly**, indicating strong seasonal demand fluctuations.
-
----
-
-## 🧠 Final Business Insights
-
-📊 The business relies heavily on a few high-performing categories contributing nearly half of total revenue.
-📅 Sales show strong seasonal fluctuations with clear monthly peaks and drops.
-💳 Digital payments dominate, especially Credit Card usage.
-🏬 Store performance is uneven, indicating optimization opportunities.
-📦 Customer behavior shows preference for small basket sizes.
-📈 Revenue can be improved by focusing on underperforming categories.
-🚀 Data-driven strategies can significantly improve overall profitability.
-
----
-
-## 🛠️ Tools & Technologies
-
-* Microsoft Excel
-* Pivot Tables
-* Power Query
-* Data Visualization
-
----
-
-## 👤 Author
-
-**Rekaa**
+🚀 Tech Stack
+<p> <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Pivot%20Tables-025E8C"/> <img src="https://img.shields.io/badge/Power%20Query-6A1B9A"/> <img src="https://img.shields.io/badge/Data%20Visualization-F2C811"/> <img src="https://img.shields.io/badge/Dashboard%20Design-742774"/> 
+⚡ Tech Hacks
+Pivot Tables & Charts used for multi-dimensional sales analysis
+Data cleaning performed to handle missing values and duplicates
+Power Query used for data transformation and standardization
+Interactive dashboards created for KPI tracking
+Visualization used for sales, product, and customer insights
+Trend analysis applied for monthly performance tracking
+🎯 Objectives
+Analyze overall e-commerce sales performance
+Identify top-performing product categories
+Understand customer purchasing behavior
+Analyze payment method preferences
+Study monthly and seasonal sales trends
+Evaluate store-wise performance
+Identify business improvement opportunities
+🧹 Data Structure
+👤 CUSTOMER
+📦 PRODUCT
+🏬 STORE
+🧾 SALES
+📊 Key Metrics
+Metric	Value
+Total Revenue	$15M
+Top Categories Contribution	48% (Sports + Electronics)
+Highest Monthly Sales	$1.2M (April)
+Lowest Monthly Sales	$0.93M (May)
+Payment Method Leader	Credit Card (52%)
+Avg Items per Order	1–2 items
+Monthly Variation	$300K–$400K
+📌 Insights
+Sports and Electronics dominate total revenue (48%)
+Credit Card is the most used payment method (52%)
+COD still holds strong usage (~30%)
+Customers prefer small basket sizes (1–2 items per order)
+Strong seasonal fluctuations observed in monthly sales
+Store performance is uneven across locations
+Revenue heavily depends on few top categories
+🧠 Conclusion
+Sales are concentrated in few key product categories
+Customer behavior shows preference for low-quantity orders
+Digital payments dominate transaction methods
+Seasonal trends strongly impact revenue
+Store performance needs optimization for balanced growth
+Data-driven decisions can significantly improve profitability
