@@ -38,18 +38,6 @@ End-to-end Excel Data Analytics Project focused on analyzing e-commerce sales da
 🏬 STORE
 🧾 SALES
 
-📊 Key Metrics
-
-Metric	                        Value
-
-- Total Revenue	                  $15M
-- Top Categories Contribution     48% (Sports + Electronics)
-- Highest Monthly Sales           $1.2M (April)
-Lowest Monthly Sales            $0.93M (May)
-Payment Method Leader	          Credit Card (52%)
-Avg Items per Order	            1–2 items
-Monthly Variation               $300K–$400K
-
 📌 Insights
 
 - Sports and Electronics dominate total revenue (48%).
