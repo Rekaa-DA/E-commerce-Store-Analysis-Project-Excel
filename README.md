@@ -12,13 +12,16 @@ End-to-end Excel Data Analytics Project focused on analyzing e-commerce sales da
 
 🚀 Tech Stack
 <p> <img src="https://img.shields.io/badge/Excel-217346?logo=microsoft-excel&logoColor=white"/> <img src="https://img.shields.io/badge/Pivot%20Tables-025E8C"/> <img src="https://img.shields.io/badge/Power%20Query-6A1B9A"/> <img src="https://img.shields.io/badge/Data%20Visualization-F2C811"/> <img src="https://img.shields.io/badge/Dashboard%20Design-742774"/> 
+
 ⚡ Tech Hacks
-Pivot Tables & Charts used for multi-dimensional sales analysis
-Data cleaning performed to handle missing values and duplicates
-Power Query used for data transformation and standardization
-Interactive dashboards created for KPI tracking
-Visualization used for sales, product, and customer insights
-Trend analysis applied for monthly performance tracking
+
+- Pivot Tables & Charts used for multi-dimensional sales analysis.
+- Data cleaning performed to handle missing values and duplicates.
+- Power Query used for data transformation and standardization.
+- Interactive dashboards created for KPI tracking.
+- Visualization used for sales, product, and customer insights.
+- Trend analysis applied for monthly performance tracking.
+  
 🎯 Objectives
 Analyze overall e-commerce sales performance
 Identify top-performing product categories
