@@ -23,39 +23,53 @@ End-to-end Excel Data Analytics Project focused on analyzing e-commerce sales da
 - Trend analysis applied for monthly performance tracking.
   
 🎯 Objectives
-Analyze overall e-commerce sales performance
-Identify top-performing product categories
-Understand customer purchasing behavior
-Analyze payment method preferences
-Study monthly and seasonal sales trends
-Evaluate store-wise performance
-Identify business improvement opportunities
+- Analyze overall e-commerce sales performance
+- Identify top-performing product categories
+- Understand customer purchasing behavior
+- Analyze payment method preferences
+- Study monthly and seasonal sales trends
+- Evaluate store-wise performance
+- Identify business improvement opportunities
+
 🧹 Data Structure
+
 👤 CUSTOMER
 📦 PRODUCT
 🏬 STORE
 🧾 SALES
+
 📊 Key Metrics
+
 Metric	Value
-Total Revenue	$15M
-Top Categories Contribution	48% (Sports + Electronics)
-Highest Monthly Sales	$1.2M (April)
-Lowest Monthly Sales	$0.93M (May)
-Payment Method Leader	Credit Card (52%)
-Avg Items per Order	1–2 items
-Monthly Variation	$300K–$400K
+
+Total Revenue	- $15M
+Top Categories Contribution - 	48% (Sports + Electronics)
+Highest Monthly Sales	- $1.2M (April)
+Lowest Monthly Sales - 	$0.93M (May)
+Payment Method Leader	- Credit Card (52%)
+Avg Items per Order	- 1–2 items
+Monthly Variation - 	$300K–$400K
+
 📌 Insights
-Sports and Electronics dominate total revenue (48%)
-Credit Card is the most used payment method (52%)
-COD still holds strong usage (~30%)
-Customers prefer small basket sizes (1–2 items per order)
-Strong seasonal fluctuations observed in monthly sales
-Store performance is uneven across locations
-Revenue heavily depends on few top categories
+
+- Sports and Electronics dominate total revenue (48%).
+- Credit Card is the most used payment method (52%).
+- COD still holds strong usage (~30%).
+- Customers prefer small basket sizes (1–2 items per order).
+- Strong seasonal fluctuations observed in monthly sales.
+- Store performance is uneven across locations.
+- Revenue heavily depends on few top categories.
+  
 🧠 Conclusion
-Sales are concentrated in few key product categories
-Customer behavior shows preference for low-quantity orders
-Digital payments dominate transaction methods
-Seasonal trends strongly impact revenue
-Store performance needs optimization for balanced growth
-Data-driven decisions can significantly improve profitability
+
+- Sales are concentrated in few key product categories.
+- Customer behavior shows preference for low-quantity orders.
+- Digital payments dominate transaction methods.
+- Seasonal trends strongly impact revenue.
+- Store performance needs optimization for balanced growth.
+- Data-driven decisions can significantly improve profitability.
+
+👨‍💻 Profile
+📊 Aspiring Data Analyst
+📈 Skilled in Excel, Power BI, Data Visualization
+🚀 Focused on real-world analytics projects
