@@ -57,7 +57,6 @@ End-to-end Excel Data Analytics Project focused on analyzing e-commerce sales da
 - Store performance needs optimization for balanced growth.
 - Data-driven decisions can significantly improve profitability.
 
-👨‍💻 Profile
+Rekaa
 📊 Aspiring Data Analyst
-📈 Skilled in Excel, Power BI, Data Visualization
-🚀 Focused on real-world analytics projects
+🚀 Open to opportunities
